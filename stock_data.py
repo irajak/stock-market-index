@@ -1,3 +1,6 @@
+# Data Source: Yahoo Finance API (https://finance.yahoo.com)
+# Retrieved on: March 20, 2025
+
 import yfinance as yf
 import pandas as pd
 import os
